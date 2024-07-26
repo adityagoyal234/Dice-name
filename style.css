@@ -1,0 +1,37 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 50px;
+}
+
+h3 {
+    color: lightgreen;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.player1 {
+    padding-right: 50px;
+}
+
+.result {
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+}
+
+.img1,
+.img2 {
+    height: 200px;
+    width: 200px;
+}
